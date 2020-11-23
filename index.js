@@ -36,7 +36,7 @@ function winner(){
      }
 
      else {
-        document.querySelector("h1").innerHTML = "DRAW"
+        document.querySelector("h1").innerHTML = "It's a DRAW"
      }
 
 }
